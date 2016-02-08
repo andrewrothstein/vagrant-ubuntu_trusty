@@ -1,4 +1,5 @@
 ---
+- src: andrewrothstein.sudoers
 - src: andrewrothstein.ntp
 - src: andrewrothstein.nettools
 - src: andrewrothstein.git
