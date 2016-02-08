@@ -1,0 +1,10 @@
+---
+- src: andrewrothstein.ntp
+- src: andrewrothstein.nettools
+- src: andrewrothstein.git
+- src: andrewrothstein.docker
+- src: andrewrothstein.docker-py
+- src: andrewrothstein.useraccounts
+- src: andrewrothstein.emacs-build
+
+                                    

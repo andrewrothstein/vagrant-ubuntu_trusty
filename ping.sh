@@ -1,2 +1,2 @@
 #!/usr/bin/env bash
-ansible '*' -i inventory.ini -u vagrant -m ping
+ansible '*' -i inventory.ini -m ping

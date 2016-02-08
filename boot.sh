@@ -2,3 +2,5 @@
 vagrant up
 ./add-key.sh
 ./ping.sh
+./getroles.sh
+./converge.sh

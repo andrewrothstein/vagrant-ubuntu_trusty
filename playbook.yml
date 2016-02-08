@@ -1,0 +1,10 @@
+---
+- hosts: all
+  roles:
+    - andrewrothstein.ntp
+    - andrewrothstein.nettools
+    - andrewrothstein.git
+    - andrewrothstein.docker
+    - andrewrothstein.docker-py
+    - andrewrothstein.useraccounts
+    - andrewrothstein.emacs-build
