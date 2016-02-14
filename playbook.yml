@@ -3,9 +3,3 @@
   roles:
     - andrewrothstein.sudoers
     - andrewrothstein.ntp
-    - andrewrothstein.nettools
-    - andrewrothstein.git
-    - andrewrothstein.docker
-    - andrewrothstein.docker-py
-    - andrewrothstein.useraccounts
-    - andrewrothstein.emacs-build
