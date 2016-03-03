@@ -1,3 +1,4 @@
 ---
 - src: andrewrothstein.sudoers
 - src: andrewrothstein.ntp
+- src: andrewrothstein.docker
